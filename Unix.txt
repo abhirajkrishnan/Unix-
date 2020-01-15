@@ -1,0 +1,20 @@
+Unix is a multi-user ,multi-tasking operating system for servers and Desktops.
+Multi user means many users can be logged into at the same time
+Multi taslking means you can execute Different tasks at the same time.
+It can ported to various hardware platforms.(not for one specific platform or suystems.)
+It provides really good security to the files like authentication ,file hidden ,etc.
+It has hirarchial file structure.Files are stored in inverted tree format.
+
+There are many different versions of UNIX,and they share common similarities. The most popular varieties of UNIX are Sun Solaris, GNU/Linux, and MacOS X
+\---------------------------------------------------------------------------
+UNIX Architecture
+1.kernel
+2.shell
+3.Application Program
+
+1.kernel is the interface which connects the shell with the hardware for interaction.It is responsible for the memory management and task management and file management.
+2.Shell is the command line interpreter which connects user with the kernel.It translates commands to the language understood by the kernel.Gives access to various commands like bash,vi,cpp,grep,etc.
+3.Applications like ftp or mails or Dbms which use commands to interact with the kernel which further interprets to the hardware
+
+\--------------------------------------------------------------------------------
+Everything in Unix is a file or a process.
